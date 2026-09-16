@@ -303,3 +303,14 @@ ecommerce-customer-intelligence/
 │
 └── README.md
 
+
+## Dashboard Screenshots
+
+### Customer Intelligence
+![Customer Intelligence Dashboard](screenshots/customer_intelligence.png)
+
+### Fraud Analytics
+![Fraud Analytics Dashboard](screenshots/fraud_analytics.png)
+
+### Product Performance
+![Product Performance Dashboard](screenshots/product_performance.png)
