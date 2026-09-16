@@ -24,6 +24,10 @@ E-commerce companies generate large volumes of transactional and customer data. 
 
 Python → AWS S3 → Databricks/PySpark → Delta Lake → Snowflake → Power BI
 
+### Architecture Diagram
+
+![E-Commerce Data Engineering Architecture](ecommerce-data-engineering-architecture.drawio%20%281%29.png)
+
 ### Data Flow
 
 1. Synthetic e-commerce data is generated using Python.
