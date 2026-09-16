@@ -302,15 +302,19 @@ ecommerce-customer-intelligence/
 │   └── ecommerce_dashboard.pbix
 │
 └── README.md
-
+```
 
 ## Dashboard Screenshots
 
 ### Customer Intelligence
-![Customer Intelligence Dashboard](screenshots/customer_intelligence.png)
+
+![Customer Intelligence Dashboard](./screenshots/customer_intelligence.png)
 
 ### Fraud Analytics
-![Fraud Analytics Dashboard](screenshots/fraud_analytics.png)
+
+![Fraud Analytics Dashboard](./screenshots/fraud_analytics.png)
 
 ### Product Performance
-![Product Performance Dashboard](screenshots/product_performance.png)
+
+![Product Performance Dashboard](./screenshots/product_performance.png)
+
